@@ -1,1 +1,4 @@
 *.properties
+
+### ENV Files ###
+.env
